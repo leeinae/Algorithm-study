@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 ### Intellij+iml Patch ###
 # Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-249601023
+=======
+
+# Created by https://www.gitignore.io/api/java,intellij+iml
+# Edit at https://www.gitignore.io/?templates=java,intellij+iml
+
+### Intellij+iml ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+>>>>>>> 8aff11f59457aaa9b0c37fa6f46a45b21bebb8b8
 
 # User-specific stuff
 .idea/**/workspace.xml
