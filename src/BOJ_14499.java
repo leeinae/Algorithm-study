@@ -52,37 +52,38 @@ public class BOJ_14499 {
                 continue;
             }
 
-            int[] dice_clone = dice.clone();
-            switch (num) {
-                case 1: //동
-                    dice[1] = dice_clone[4]; //위
-                    dice[6] = dice_clone[3]; //아래
-                    dice[3] = dice_clone[1]; //동
-                    dice[4] = dice_clone[6]; //서
-                    checkMap(dice[6]);
-                    break;
-                case 2: //서
-                    dice[1] = dice_clone[3];
-                    dice[4] = dice_clone[1];
-                    dice[3] = dice_clone[6];
-                    dice[6] = dice_clone[4];
-                    checkMap(dice[6]);
-                    break;
-                case 3: //북
-                    dice[1] = dice_clone[5];
-                    dice[6] = dice_clone[2];
-                    dice[2] = dice_clone[1];
-                    dice[5] = dice_clone[6];
-                    checkMap(dice[6]);
-                    break;
-                case 4: //남
-                    dice[6] = dice_clone[5];
-                    dice[1] = dice_clone[2];
-                    dice[5] = dice_clone[1];
-                    dice[2] = dice_clone[6];
-                    checkMap(dice[6]);
-                    break;
-            }
+            changeDice(num);
+            checkMap(dice[6]);
+        }
+    }
+
+    public static void changeDice(int num){
+        int[] dice_clone = dice.clone();
+        switch (num) {
+            case 1: //동
+                dice[1] = dice_clone[4]; //위
+                dice[6] = dice_clone[3]; //아래
+                dice[3] = dice_clone[1]; //동
+                dice[4] = dice_clone[6]; //
+                break;
+            case 2: //서
+                dice[1] = dice_clone[3];
+                dice[4] = dice_clone[1];
+                dice[3] = dice_clone[6];
+                dice[6] = dice_clone[4];
+                break;
+            case 3: //북
+                dice[1] = dice_clone[5];
+                dice[6] = dice_clone[2];
+                dice[2] = dice_clone[1];
+                dice[5] = dice_clone[6];
+                break;
+            case 4: //남
+                dice[6] = dice_clone[5];
+                dice[1] = dice_clone[2];
+                dice[5] = dice_clone[1];
+                dice[2] = dice_clone[6];
+                break;
         }
     }
 
