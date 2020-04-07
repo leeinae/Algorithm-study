@@ -33,13 +33,14 @@ public class BOJ_14502 {
             }
         }
 
-        setWall(0, 0);
+        setWall(0, 0,  0);
         System.out.println(maxNum);
     }
 
-    public static void setWall(int start, int depth) {
+    public static void setWall(int x, int y, int depth) {
         if (depth == 3) {
-            copyMap();
+            //벽을 세운 상태를 copy 해야하기 때문에 clone 안하고 복사합니다
+           copyMap();
 
             for(Point p : virus) {
                 dfs(p.x, p.y);
@@ -49,15 +50,19 @@ public class BOJ_14502 {
             return;
         }
 
-        for(int i= start; i < N * M; i++) {
-            int x = i / M;
-            int y = i % M;
-
-            if(map[x][y] == 0) {
-                map[x][y] =1;
-                setWall(i + 1, depth + 1);
-                map[x][y] =0;
+        for(int i= x; i < N; i++) {
+            for(int j=0; j<M; j++) {
+                if( i == x && j < y ) {
+                    continue;
+                }
+                System.out.println(i+"," +j);
+                if(map[i][j] == 0) {
+                    map[i][j] =1;
+                    setWall(i, j+1,  depth + 1);
+                    map[i][j] =0;
+                }
             }
+
         }
     }
 
