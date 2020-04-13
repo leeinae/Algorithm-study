@@ -10,6 +10,12 @@ BFS&DFS
 + [14502_연구소](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_14502.java)
 + [16236_아기 상어](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_16236.java)
 
+그리디
+--------
++ [42862_체육복](https://github.com/leeinae/Algorithm-study/blob/master/src/Pro_42862.java)
++ [42860_조이스틱](https://github.com/leeinae/Algorithm-study/blob/master/src/Pro_42860.java)
+
 기타 문제
 ----------
-+ [14499_주사위 굴리기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_14499.java)  
++ [14499_주사위 굴리기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_14499.java) 
++ [17143_낚시왕](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_17143.java)
