@@ -9,6 +9,7 @@ BFS&DFS
 + [1012_유기농 배추](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1012.java)
 + [14502_연구소](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_14502.java)
 + [16236_아기 상어](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_16236.java)
++ [43165_타겟 넘버](https://github.com/leeinae/Algorithm-study/blob/master/src/Pro_43165.java)
 
 그리디
 --------
@@ -19,3 +20,4 @@ BFS&DFS
 ----------
 + [14499_주사위 굴리기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_14499.java) 
 + [17143_낚시왕](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_17143.java)
++ [17140_이차원 배열과 연산](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_171430.java)
