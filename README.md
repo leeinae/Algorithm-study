@@ -10,6 +10,7 @@ BFS&DFS
 + [14502_연구소](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_14502.java)
 + [16236_아기 상어](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_16236.java)
 + [43165_타겟 넘버](https://github.com/leeinae/Algorithm-study/blob/master/src/Pro_43165.java)
++ [2178_미로 탐색](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2178.java)
 
 그리디
 --------
@@ -26,6 +27,7 @@ DP
 + [11053_가장 긴 증가하는 부분 수열](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_11053.java)
 + [2156_포도주 시식](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2156.java)
 + [2579_계단 오르기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2579.java)
++ [12865_평범한 배낭](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_12865.java)
 
 
 기타 문제
