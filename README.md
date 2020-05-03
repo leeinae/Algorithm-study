@@ -37,3 +37,4 @@ DP
 + [17140_이차원 배열과 연산](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_171430.java)
 + [17837_새로운 게임2](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_17837.java)
 + [17825_주사위 윷놀이](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_17825.java)
++ [17779_게리멘더링2](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_17779.java)
