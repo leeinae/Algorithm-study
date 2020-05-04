@@ -11,6 +11,7 @@ BFS&DFS
 + [16236_아기 상어](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_16236.java)
 + [43165_타겟 넘버](https://github.com/leeinae/Algorithm-study/blob/master/src/Pro_43165.java)
 + [2178_미로 탐색](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2178.java)
++ [7576_토마토](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_7576.java)
 
 그리디
 --------
@@ -38,3 +39,4 @@ DP
 + [17837_새로운 게임2](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_17837.java)
 + [17825_주사위 윷놀이](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_17825.java)
 + [17779_게리멘더링2](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_17779.java)
++ [16235_나무 재테크](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_16235.java)
