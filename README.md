@@ -31,6 +31,7 @@ DP
 + [2156_포도주 시식](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2156.java)
 + [2579_계단 오르기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2579.java)
 + [12865_평범한 배낭](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_12865.java)
++ [11066_파일 합치기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_11066.java)
 
 
 기타 문제
@@ -42,3 +43,5 @@ DP
 + [17825_주사위 윷놀이](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_17825.java)
 + [17779_게리멘더링2](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_17779.java)
 + [16235_나무 재테크](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_16235.java)
++ [15686_치킨 배달](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_15686.java)
++ [14889_스타트와 링크](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_14889.java)
