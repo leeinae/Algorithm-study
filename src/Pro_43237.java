@@ -10,7 +10,7 @@ public class Pro_43237 {
     public static int solution(int[] budgets, int M) {
         int answer = 0;
         long sum = 0;
-        int max = budgets[budgets.length-1];
+        int max = M;
         int min = 0;
         int mid = 0;
         int temp = 0;
@@ -23,7 +23,7 @@ public class Pro_43237 {
 
         // 예산 내로 배정할 수 있는 경우
         if (sum < M) {
-            return max;
+            return budgets[budgets.length - 1];
         }
 
         while (true) {
