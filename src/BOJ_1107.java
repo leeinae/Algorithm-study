@@ -29,7 +29,7 @@ public class BOJ_1107 {
     static void solution(int channel) {
         int answer = Math.abs(100 - channel);
 
-        for (int i = 0; i <= 10000000; i++) { //가까운 채널로 이동
+        for (int i = 0; i <= 1000000; i++) { //가까운 채널로 이동
             int length = isPossible(i);
 
             if (length != 0) {
