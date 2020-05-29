@@ -33,6 +33,8 @@ DP
 + [2579_계단 오르기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2579.java)
 + [12865_평범한 배낭](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_12865.java)
 + [11066_파일 합치기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_11066.java)
++ [14501_퇴사](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_14501.java)
++ [2325_반도체 설계](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2325.java)
 
 
 기타 문제
@@ -54,6 +56,8 @@ DP
 + [1726_로봇](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1726.java)
 + [7568_덩치](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_7568.java)
 + [3109_빵집](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_3109.java)
++ [9328_열쇠](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_9328.java)
++ [14890_경사로](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_14890.java)
     #### 투 포인터
     + [1920_수들의 합](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2003.java)
     + [1644_소수의 연속 합](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1644.java)
