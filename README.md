@@ -14,6 +14,7 @@ BFS&DFS
 + [7576_토마토](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_7576.java)
 + [1697_숨바꼭질](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1697.java)
 + [2206_벽 부수고 이동하기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2206.java)
++ [16234_인구 이동](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_16234.java)
 
 그리디
 --------
@@ -58,9 +59,13 @@ DP
 + [3109_빵집](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_3109.java)
 + [9328_열쇠](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_9328.java)
 + [14890_경사로](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_14890.java)
++ [3197_백조의 호수](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_3197.java)
++ [3678_카탄의 개척자](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_3678.java)
++ [11559_Puyo Puyo](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_11559.java)
     #### 투 포인터
     + [1920_수들의 합](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2003.java)
     + [1644_소수의 연속 합](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1644.java)
+    + [1806_부분합](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1806.java)
     #### 재귀
     + [하노이 탑](https://github.com/leeinae/Algorithm-study/blob/master/src/Hanoi.java)
     + [1914_하노이 탑](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1914_Hanoi.java)
