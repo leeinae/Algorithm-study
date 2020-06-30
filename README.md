@@ -15,6 +15,8 @@ BFS&DFS
 + [1697_숨바꼭질](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1697.java)
 + [2206_벽 부수고 이동하기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2206.java)
 + [16234_인구 이동](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_16234.java)
++ [17822_원판 돌리기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_17822_retry.java)
++ [2468_안전 영역](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2468.java)
 
 그리디
 --------
@@ -38,6 +40,7 @@ DP
 + [2325_반도체 설계](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2325.java)
 + [2631_줄세우기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2631.java)
 + [1965_상자넣기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1965.java)
++ [2616_소형기관차](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2616.java)
 
 
 기타 문제
@@ -68,6 +71,9 @@ DP
 + [2933_미네랄](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2933.java)
 + [1062_가르침](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1062.java)
 + [4179_불!](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_4179.java)
++ [2493_탑](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_4179.java)
++ [14891_톱니바퀴](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_14891.java)
++ [1339_단어 수학](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1339.java)
     #### 투 포인터
     + [1920_수들의 합](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2003.java)
     + [1644_소수의 연속 합](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1644.java)
@@ -81,6 +87,9 @@ DP
     #### 유니온 파인드
     + [1717_집합의 표현](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1717.java)
     + [1976_여행 가자](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1976.java)
+    #### KMP
+    + [1786_찾기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1786.java)
+    + [1701_Cubeditor](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1701.java)
     
 
 이분 탐색
