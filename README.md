@@ -17,6 +17,7 @@ BFS&DFS
 + [16234_인구 이동](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_16234.java)
 + [17822_원판 돌리기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_17822_retry.java)
 + [2468_안전 영역](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2468.java)
++ [2931_가스관](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2931.java)
 
 그리디
 --------
@@ -41,6 +42,10 @@ DP
 + [2631_줄세우기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2631.java)
 + [1965_상자넣기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1965.java)
 + [2616_소형기관차](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2616.java)
++ [1309_동물원](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1309.java)
++ [2193_이친수](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2193.java)
++ [9465_스티커](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_9465.java)
++ [10164_격자상의 경로](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_10164.java)
 
 
 기타 문제
@@ -74,6 +79,8 @@ DP
 + [2493_탑](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_4179.java)
 + [14891_톱니바퀴](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_14891.java)
 + [1339_단어 수학](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1339.java)
++ [1941_소문난 칠공주](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1941.java)
++ [1194_달이 차오른다, 가자](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1194.java)
     #### 투 포인터
     + [1920_수들의 합](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2003.java)
     + [1644_소수의 연속 합](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1644.java)
