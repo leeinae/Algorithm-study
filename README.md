@@ -18,6 +18,7 @@ BFS&DFS
 + [17822_원판 돌리기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_17822_retry.java)
 + [2468_안전 영역](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2468.java)
 + [2931_가스관](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2931.java)
++ [2589_보물섬](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2589.java)
 
 그리디
 --------
@@ -81,6 +82,11 @@ DP
 + [1339_단어 수학](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1339.java)
 + [1941_소문난 칠공주](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1941.java)
 + [1194_달이 차오른다, 가자](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1194.java)
++ [1620_나는야 포켓몬 마스터 이다솜](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1620.java)
++ [14503_로봇 청소기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_14503.java)
++ [2869_달팽이는 올라가고 싶다](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2869.java)
++ [13458_시험 감독](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_13458.java)
++ [3190_뱀](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_3190.java)
     #### 투 포인터
     + [1920_수들의 합](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2003.java)
     + [1644_소수의 연속 합](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1644.java)
