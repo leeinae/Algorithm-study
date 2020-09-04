@@ -19,6 +19,8 @@ BFS&DFS
 + [2468_안전 영역](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2468.java)
 + [2931_가스관](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2931.java)
 + [2589_보물섬](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2589.java)
++ [2583_영역 구하기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2583.java)
++ [7569_토마토](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_7569.java)
 
 그리디
 --------
@@ -87,6 +89,8 @@ DP
 + [2869_달팽이는 올라가고 싶다](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2869.java)
 + [13458_시험 감독](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_13458.java)
 + [3190_뱀](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_3190.java)
++ [64061_인형뽑기](https://github.com/leeinae/Algorithm-study/blob/master/src/Pro_64061.java)
++ [42576_완주하지 못한 선수](https://github.com/leeinae/Algorithm-study/blob/master/src/Pro_42576.java)
     #### 투 포인터
     + [1920_수들의 합](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2003.java)
     + [1644_소수의 연속 합](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1644.java)
