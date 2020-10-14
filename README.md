@@ -110,6 +110,9 @@ DP
     #### STACK
     + [9012_괄호](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_9012.java)
     + [17608_막대기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_17608.java)
+    #### QUEUE
+    + [1966_프린터 큐](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1966.java)
+    
     
 
 이분 탐색
