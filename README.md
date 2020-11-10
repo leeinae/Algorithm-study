@@ -21,6 +21,7 @@ BFS&DFS
 + [2589_보물섬](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2589.java)
 + [2583_영역 구하기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2583.java)
 + [7569_토마토](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_7569.java)
++ [2638_치즈](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2638.java)
 
 그리디
 --------
@@ -93,6 +94,7 @@ DP
 + [42576_완주하지 못한 선수](https://github.com/leeinae/Algorithm-study/blob/master/src/Pro_42576.java)
 + [3085_사탕게임](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_3085.java)
 + [1764_듣보잡](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1764.java)
++ [2002_추월](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2002.java)
     #### 투 포인터
     + [1920_수들의 합](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_2003.java)
     + [1644_소수의 연속 합](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1644.java)
