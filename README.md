@@ -32,6 +32,7 @@ BFS&DFS
 + [1904_01타일](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1904.java)
 + [1904_ATM](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_11399.java)
 + [1541_잃어버린 괄호](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1541.java)
++ [1946_신입 사원](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1946.java)
 
 DP
 -----------
@@ -116,6 +117,7 @@ DP
     + [17608_막대기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_17608.java)
     #### QUEUE
     + [1966_프린터 큐](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1966.java)
+    + [15903_카드 합체 놀이](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_15903.java)
     
     
 
