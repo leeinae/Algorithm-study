@@ -118,7 +118,8 @@ DP
     #### QUEUE
     + [1966_프린터 큐](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1966.java)
     + [15903_카드 합체 놀이](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_15903.java)
-    
+    + [1715_카드 정렬하기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1715.java)
+    + [1766_문제집](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1766.java)
     
 
 이분 탐색
