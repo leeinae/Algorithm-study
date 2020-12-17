@@ -56,6 +56,9 @@ DP
 + [1463_1로 만들기](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1463.java)
 + [11722_가장 긴 감소하는 부분 수열](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_11722.java)
 + [1915_가장 큰 정사각형](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1915.java)
++ [1699_제곱수의 합](https://github.com/leeinae/Algorithm-study/blob/master/src/BOJ_1699.java)
++ [43105_정수 삼각형](https://github.com/leeinae/Algorithm-study/blob/master/src/Pro_43105.java)
++ [42898_등굣길](https://github.com/leeinae/Algorithm-study/blob/master/src/Pro_42898.java)
 
 
 기타 문제
