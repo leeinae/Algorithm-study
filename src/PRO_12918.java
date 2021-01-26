@@ -3,12 +3,12 @@ public class PRO_12918 {
         public boolean solution(String s) {
             boolean answer = true;
 
-            answer = isLimit(s) && isNumeric(s) ? true : false;
+            answer = isLimit(s) && isNumeric(s);
             return answer;
         }
 
         public boolean isLimit(String s) {
-            return s.length() == 4 || s.length() == 6 ? true : false;
+            return s.length() == 4 || s.length() == 6;
         }
 
         public boolean isNumeric(String s) {
