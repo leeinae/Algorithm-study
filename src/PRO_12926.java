@@ -5,19 +5,8 @@ public class PRO_12926 {
             char[] charArr = s.toCharArray();
 
             for (int i = 0; i < charArr.length; i++) {
-                if (charArr[i] >= 65 && charArr[i] <= 90) {
-                    charArr[i] += n;
-
-                    if (charArr[i] > 90) {
-                        charArr[i] -= 26;
-                    }
-                } else if (Character.isAlphabetic(charArr[i])) {
-                    charArr[i] += n;
-
-                    if (charArr[i] > 122) {
-                        charArr[i] -= 26;
-                    }
-                }
+                if (Character.isUpperCase(charArr[i])) charArr[i] = (char) (((charArr[i] - 'A' + n) % 26) + 'A');
+                else if (Character.isLowerCase(charArr[i])) charArr[i] = (char) (((charArr[i] - 'a' + n) % 26) + 'a');
             }
             answer = new String(charArr);
 
